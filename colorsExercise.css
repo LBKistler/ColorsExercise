@@ -22,9 +22,11 @@ p {
 }
 #one {
     color: hotpink; 
-    border: 5px solid green
+    
 }
 #three {
     background-color: peachpuff;
-    border: 5px solid green
 }
+    .border{
+        border: 5px solid green
+    }
